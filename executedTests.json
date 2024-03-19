@@ -1,0 +1,6 @@
+{
+  "executedTests": [
+    "auth.test.js",
+    "auth2.test.js"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "startTime": "2024-03-16T14:50:53.336Z",
+  "totalTests": 2,
+  "tests": [
+    {
+      "title": "has title",
+      "startTime": "2024-03-16T14:50:53.900Z",
+      "TestCaseId": "TC1",
+      "TestRunId": "TR2",
+      "endTime": "2024-03-16T14:50:55.975Z",
+      "result": "passed"
+    },
+    {
+      "title": "get started link",
+      "startTime": "2024-03-16T14:50:55.975Z",
+      "TestCaseId": "TC2",
+      "TestRunId": "TR2",
+      "endTime": "2024-03-16T14:50:58.306Z",
+      "result": "passed"
+    }
+  ],
+  "endTime": "2024-03-16T14:50:58.661Z",
+  "status": "passed"
+}
