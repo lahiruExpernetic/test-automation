@@ -1,6 +1,6 @@
 {
-  "name": "test-autoamation",
-  "version": "0.2.6",
+  "name": "test-automation",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "bin": "./bin/cli.js",
