@@ -12,7 +12,7 @@ const runCommand = (command) => {
 };
 
 const repoName = "testbolt-automation";
-const gitCheckoutCommand = `git clone --depth 1 https://github.com/lahiruExpernetic/testbolt-automation.git`;
+const gitCheckoutCommand = `git clone --depth 1 https://github.com/lahiruExpernetic/test-automation.git`;
 const installDepsCommand = `cd ${repoName} && npm install`;
 
 console.log(`cloning repo with ${repoName}`);

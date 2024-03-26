@@ -1,6 +1,6 @@
 {
-  "name": "testbolt-autoamation",
-  "version": "0.2.5",
+  "name": "test-autoamation",
+  "version": "0.2.6",
   "description": "",
   "main": "index.js",
   "bin": "./bin/cli.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lahiruExpernetic/testbolt-automation.git"
+    "url": "https://github.com/lahiruExpernetic/test-automation.git"
   },
   "devDependencies": {
     "@playwright/test": "^1.41.2",
